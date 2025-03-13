@@ -1,1 +1,1 @@
-# FLAG.github.io
+# FLAG
